@@ -1,7 +1,0 @@
-{
-    "platform": "laravel",
-    "app": "aman-teacher-managment",
-    "laravel": {
-      "phpVersion": "8.2"
-    }
-  }
