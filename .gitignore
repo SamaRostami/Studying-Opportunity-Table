@@ -6,6 +6,7 @@
 /storage/*.key
 /vendor
 .env
+liara.json
 .env.backup
 .env.production
 .phpunit.result.cache
@@ -14,7 +15,6 @@ Homestead.yaml
 auth.json
 npm-debug.log
 yarn-error.log
-liara.json
 /.fleet
 /.idea
 /.vscode
